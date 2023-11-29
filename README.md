@@ -11,6 +11,6 @@
 ![Apache Airflow](https://img.shields.io/badge/Apache%20Airflow-017CEE?style=for-the-badge&logo=Apache%20Airflow&logoColor=white)
 - 📫 How to reach me: cen04088@gmail.com
 - support : Tottenham
-- 😄 백준: [![Solved.ac 프로필](http://mazassumnida.wtf/api/v2/generate_badge?boj=cen04088)](https://solved.ac/cen04088)
+[![Solved.ac 프로필](http://mazassumnida.wtf/api/v2/generate_badge?boj=cen04088)](https://solved.ac/cen04088)
 
 
