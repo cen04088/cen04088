@@ -10,7 +10,10 @@
 ![Apache Spark](https://img.shields.io/badge/Apache%20Spark-FDEE21?style=flat-square&logo=apachespark&logoColor=black)
 ![Apache Airflow](https://img.shields.io/badge/Apache%20Airflow-017CEE?style=for-the-badge&logo=Apache%20Airflow&logoColor=white)
 - 📫 How to reach me: cen04088@gmail.com
-- support : Tottenham
+- language: Korean, Chinese, English,  
+- 😄 Carrer road Map: public official - Data Analyst(learning)
+- ⚽ support club : Tottenham
+
 [![Solved.ac 프로필](http://mazassumnida.wtf/api/v2/generate_badge?boj=cen04088)](https://solved.ac/cen04088)
 
 
