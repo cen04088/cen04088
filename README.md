@@ -1,10 +1,6 @@
 ### Hi there 👋
 
 
-**cen04088/cen04088** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-
-Here are some ideas to get you started:
-
 - 🌱 I’m currently learning: Pyrhon, Data Science
 - 👯 I’m looking to collaborate on Data Analystic
 - 🤔 I’m looking for help with ...
