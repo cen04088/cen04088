@@ -11,6 +11,4 @@
 - 😄 Carrer Road Map: public official - Data Analyst(learning)
 - ⚽ support club : Tottenham
 
-[![Solved.ac 프로필](http://mazassumnida.wtf/api/v2/generate_badge?boj=cen04088)](https://solved.ac/cen04088)
-
 
