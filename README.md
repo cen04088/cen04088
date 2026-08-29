@@ -15,6 +15,7 @@
 
 ![Gemini API](https://img.shields.io/badge/Gemini%20API-8E75B2?style=flat-square&logo=googlegemini&logoColor=white)
 ![Claude API](https://img.shields.io/badge/Claude%20API-D97757?style=flat-square&logo=anthropic&logoColor=white)
+![Codex](https://img.shields.io/badge/Codex-412991?style=flat-square&logo=openai&logoColor=white)
 ![Prompt Engineering](https://img.shields.io/badge/Prompt%20Engineering-6B46C1?style=flat-square&logoColor=white)
 ![RAG](https://img.shields.io/badge/RAG-6B46C1?style=flat-square&logoColor=white)
 ![AI Content Ops](https://img.shields.io/badge/AI%20Content%20Ops-6B46C1?style=flat-square&logoColor=white)
