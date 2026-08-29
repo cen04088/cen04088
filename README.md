@@ -33,11 +33,3 @@
 | ⛰️ | [**올라 (Forest)**](https://github.com/cen04088/forest) | 날씨·재난 데이터로 산행 안전 등급을 산출하고 실시간 위치 공유로 사고를 예방하는 팀 프로젝트 | Vue 3 · Django · Claude/Gemini API |
 | ⚔️ | [**롤옥션**](https://github.com/cen04088/lol-auction) | 팀장 간 실시간 입찰로 내전 팀을 짜는 경매 드래프트 웹앱, 라이엇 API 기반 자동 밸런싱 모드 포함 | FastAPI · WebSocket · Riot API |
 | 🌊 | [**DRIFT**](https://github.com/Seongmiin2/DRIFT) | 해류 시뮬레이션과 머신러닝으로 실종자·선박의 예상 수색 구역을 예측하는 AI 기반 해상 수색구조 의사결정 지원 시스템 (팀 프로젝트) | React · Django · OpenDrift · LightGBM |
-
----
-
-<div align="center">
-
-![cen04088's GitHub stats](https://github-readme-stats.vercel.app/api?username=cen04088&show_icons=true&theme=default&hide_border=true)
-
-</div>
