@@ -8,7 +8,14 @@
 </div>
 
 ---
-
+### 🏆 Award
+| Award | Host | Date |
+|---|---|---|
+| Grand Prize (1st) — AI Hackathon, *DRIFT* | Samsung × Kakao / Ministry of Employment and Labor | Jun 2026 |
+| Best Project (1st in class) — *Ola* | Samsung SSAFY | Jul 2026 |
+| 3rd Place — AI Data Idea Contest, *First Step* | Ministry of Gender Equality and Family | Jul 2026 |
+| Excellence Award (4th) — National Data Contest, *Minwon ON* | Ministry of the Interior and Safety | Apr 2026 |
+---
 ### 🛠️ Stack
 
 **AI / LLM Engineering**
