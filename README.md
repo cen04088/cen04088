@@ -49,7 +49,7 @@
 
 | | Project | 설명 | Stack |
 |---|---|---|---|
-| 🌊 | [**DRIFT**](https://github.com/Seongmiin2/DRIFT) | 해류 시뮬레이션과 머신러닝으로 실종자·선박의 예상 수색 구역을 예측하는 AI 기반 해상 수색구조 의사결정 지원 시스템 (팀 프로젝트) | React · Django · OpenDrift · LightGBM |
+| 🌊 | [**DRIFT**](https://github.com/Seongmiin2/DRIFT) | 해류 시뮬레이션과 머신러닝으로 실종자·선박의 예상 수색 구역을 예측하는 AI 기반 해상 수색구조 의사결정 지원 시스템 | React · Django · OpenDrift · LightGBM |
 | 🛰️ | [**Dancing_with_DMZ**](https://github.com/htjworld/dancing-with-dmz) | NISAR 레이더가 한 계절 동안 본 DMZ의 변화를 밤하늘 영상과 다섯 지역 미니게임으로 읽어 보는 인터랙티브 웹앱 | Vanilla JS(ES Modules) · MapLibre GL JS · Web Audio API · NISAR L-band SAR |
 | ⛰️ | [**올라 (Forest)**](https://github.com/cen04088/forest) | 날씨·재난 데이터로 산행 안전 등급을 산출하고 실시간 위치 공유로 사고를 예방하는 팀 프로젝트 | Vue 3 · Django · Claude/Gemini API |
 | 🏛️ | [**민원ON**](https://github.com/cen04088/minjeon) | 이동 시간 + 대기 시간을 함께 계산해 가장 빠른 민원실을 추천하는 서비스 (공모전 출품작) | Django · Kakao API · Gemini |
