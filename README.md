@@ -2,7 +2,7 @@
 
 # 안녕하세요 👋
 
-AI Solutions & Data-driven Product Builder를 지향하며, **문제 정의부터 AI 서비스 기획, 데이터 분석, 실제 구현까지** 연결하는 데 관심이 있습니다. Python·SQL 기반 데이터 분석과 AI 기술을 활용해 현장의 문제를 해결하고, 아이디어를 실제 사용 가능한 서비스로 만들어가고 있습니다.
+AI Solutions & Data-driven Product Builder를 지향하며, **문제 정의부터 AI 서비스 기획, 데이터 분석, 실제 구현까지** 연결힙니다. <br>Python·SQL 기반 데이터 분석과 AI 기술을 활용해 현장의 문제를 해결하고, 아이디어를 실제 사용 가능한 서비스로 만들어가고 있습니다.
 
 </div>
 
