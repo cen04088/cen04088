@@ -50,10 +50,10 @@
 
 | | Project | 설명 | Stack |
 |---|---|---|---|
-| 🌊 | [**DRIFT**](https://github.com/Seongmiin2/DRIFT) | 해류 시뮬레이션과 머신러닝으로 실종자·선박의 예상 수색 구역을 예측하는 AI 기반 해상 수색구조 의사결정 지원 시스템 | React · Django · OpenDrift · LightGBM |
-| 🛰️ | [**Dancing_with_DMZ**](https://github.com/htjworld/dancing-with-dmz) | NISAR 레이더가 한 계절 동안 본 DMZ의 변화를 밤하늘 영상과 다섯 지역 미니게임으로 읽어 보는 인터랙티브 웹앱 | Vanilla JS(ES Modules) · MapLibre GL JS · Web Audio API · NISAR L-band SAR |
-| ⛰️ | [**올라**](https://github.com/cen04088/Ola) | 날씨·재난 데이터로 산행 안전 등급을 산출하고 실시간 위치 공유로 사고를 예방하는 팀 프로젝트 | Vue 3 · Django · Claude/Gemini API |
-| 🏛️ | [**민원ON**](https://github.com/cen04088/Minwon-ON) | 이동 시간 + 대기 시간을 함께 계산해 가장 빠른 민원실을 추천하는 서비스 (공모전 출품작) | Django · Kakao API · Gemini |
-| ⚡ | [**ChargeFlow**](https://github.com/cen04088/ChargeFlow) | 고속도로 휴게소 급속충전 혼잡도를 실시간 추정하고 대체 충전소를 추천하는 앱인토스 미니앱. 토스 자동차 카테고리 9위, DAU 15 → 50명 | Django · Kakao Mobility API |
+| 🌊 | [**DRIFT**](https://github.com/Seongmiin2/DRIFT) | 해류·표류 시뮬레이션에 LightGBM 보정을 더해 해상 실종자·선박의 수색 구역을 예측하는 수색구조 의사결정 지원 시스템. 수색 구역 산정 30~60분 → 약 1분. SSAFY × Kakao AI 해커톤 대상(고용노동부 장관상), 6인 팀 PM | React · TypeScript · Django · OpenDrift · LightGBM |
+| 🛰️ | [**Dancing_with_DMZ**](https://github.com/htjworld/dancing-with-dmz) | 70년 넘게 닫힌 DMZ를 NISAR 레이더 관측 11회로 읽어 보는 인터랙티브 웹앱. 밤하늘 영상과 다섯 지역 미션으로 레이더 영상 읽는 법을 알려 줌. NASA Space Apps Challenge 2026 서울 출품작 | Vanilla JS(ES Modules) · MapLibre GL JS · Web Audio API · NISAR L-band SAR |
+| ⛰️ | [**올라**](https://github.com/cen04088/Ola) | 공공데이터 5개 지표로 코스별 산행 안전 등급을 산출하고, 6자리 코드로 보호자와 실시간 위치를 공유하는 서비스. BM25 RAG 채팅과 LLM 안전 브리핑 포함. SSAFY 1학기 경진대회 최우수상, 2인 팀 팀장 | Vue 3 · Django · Claude/Gemini API · Leaflet |
+| 🏛️ | [**민원ON**](https://github.com/cen04088/Minwon-ON) | 실시간 번호표 대기 인원과 주행 시간을 합산해 가장 빨리 끝나는 민원실을 추천하는 모바일 웹. Gemini 준비물 안내 포함. 2026 전국 통합데이터 활용 공모전 우수상(전국 4위), 개인 기획·개발·배포 | Django · Kakao Mobility/Local API · Gemini · PWA |
+| ⚡ | [**ChargeFlow**](https://github.com/cen04088/ChargeFlow) | 고속도로 휴게소 급속충전기가 만석일 때 기다릴지 우회할지 알려 주는 앱인토스 미니앱. 전국 12개 노선 실시간 혼잡도와 대기·우회 시간 비교. 토스 자동차 카테고리 9위, DAU 15 → 50명, 개인 기획·개발·운영 | Django · DRF · React · TypeScript · TDS |
 
 
