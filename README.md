@@ -51,6 +51,7 @@
 | | Project | 설명 | Stack |
 |---|---|---|---|
 | 🌊 | [**DRIFT**](https://github.com/Seongmiin2/DRIFT) | 해류·표류 시뮬레이션에 LightGBM 보정을 더해 해상 실종자·선박의 수색 구역을 예측하는 수색구조 의사결정 지원 시스템. 수색 구역 산정 30~60분 → 약 1분. SSAFY × Kakao AI 해커톤 대상(고용노동부 장관상), 6인 팀 PM | React · TypeScript · Django · OpenDrift · LightGBM |
+| 📰 | [**NEW:LEARN**](https://github.com/a102-NEWLEARN/NEW-LEARN) | 기사 한 편을 핵심 내용·원인·배경·반응·전망 네 갈래 마인드맵으로 정리하고, 같은 사건을 다룬 기사를 묶어 이슈가 흘러온 과정을 타임라인으로 보여 주는 AI 뉴스 플랫폼. 기사 11만 2천여 건을 벡터 검색과 LLM 판정으로 사건·이슈로 묶어 실서비스 운영. SSAFY 15기 6인 팀 PM | React · TypeScript · Spring Boot · FastAPI · pgvector · Kubernetes |
 | 🛰️ | [**Dancing_with_DMZ**](https://github.com/htjworld/dancing-with-dmz) | 70년 넘게 닫힌 DMZ를 NISAR 레이더 관측 11회로 읽어 보는 인터랙티브 웹앱. 밤하늘 영상과 다섯 지역 미션으로 레이더 영상 읽는 법을 알려 줌. NASA Space Apps Challenge 2026 서울 출품작 | Vanilla JS(ES Modules) · MapLibre GL JS · Web Audio API · NISAR L-band SAR |
 | ⛰️ | [**올라**](https://github.com/cen04088/Ola) | 공공데이터 5개 지표로 코스별 산행 안전 등급을 산출하고, 6자리 코드로 보호자와 실시간 위치를 공유하는 서비스. BM25 RAG 채팅과 LLM 안전 브리핑 포함. SSAFY 1학기 경진대회 최우수상, 2인 팀 팀장 | Vue 3 · Django · Claude/Gemini API · Leaflet |
 | 🏛️ | [**민원ON**](https://github.com/cen04088/Minwon-ON) | 실시간 번호표 대기 인원과 주행 시간을 합산해 가장 빨리 끝나는 민원실을 추천하는 모바일 웹. Gemini 준비물 안내 포함. 2026 전국 통합데이터 활용 공모전 우수상(전국 4위), 개인 기획·개발·배포 | Django · Kakao Mobility/Local API · Gemini · PWA |
